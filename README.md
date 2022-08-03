@@ -14,7 +14,10 @@ Xampp: para mi base de datos - utilicé mysql.
 
 ##### Documentación:
 
+De igual forma se debe tener instalado composer -> https://getcomposer.org/download/
+
 https://laravel.com/docs/9.x/installation
+
 
 #### _Paso (1)_
 
@@ -43,4 +46,6 @@ correo: admin2@gmail.com
 pass: adminpt22
 
 con esta cuenta puede entrar si en dado caso se crea uno, no podrá visualizar los datos de la base de datos, ya que hice una relación en las tablas y con el, id del usuario. Al final ingresando la cuenta podrá visualizar la práctica.\
+
+
 ¡¡Espero sus respuestas y Comentarios!!
